@@ -21,7 +21,11 @@ A step by step series of examples that tell you how to get a development env run
 - You can either download it or go directly to the Google Collab option.
 - Run the first line of code and get running
 - Follow-up instructions given for smooth execution
-
+### Note to the user:
+Since  Google  does  not  directly  offer  Julia  based  computing  you  have  to  take  care  of  some  points:
+- You  need  to  **work  on  the  same  notebook**  to  get  access  to  Julia 1.3  kernel.
+- **You  might  lose  connection  to  the  Host  and  on  manual  reconncting  you  might  lose  your  Julia  packages that were  installed.** To  tackle  this  situation  re-run  the  first  line  of  code  and  proceed  with  the  follow  up  instructions  in  the  notebook.
+- If  you  want  to  create  your  own  notebook  I  would  suggest  you  to  **use  this  a  base  Notebook  and then work  on  it.**
 ## Contributing
 I got help from lot of people on the [Discourse](https://discourse.julialang.org/) and [Slack](https://slackinvite.julialang.org/) .It is beacuse of them this notebook is possible.Do check out these websites.
 
