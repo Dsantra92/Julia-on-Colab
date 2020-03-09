@@ -9,7 +9,7 @@
 
 # Why this Repository??
 
-Julia  has  come  to  existence  for  a  long  time  now  and  is   gaining  huge  popularity  in  2020.  When  I  statrted  Julia  few  months  back  and  immediately  after  that  I  got  stuck  with  GPU.  There   were  no  websites  offering  free  cloud  computation  for  Julia.  I  seacrhed  Julia  Discourse  and  Slack #gpu  for  weeks  and  after  many  trial  and  errors  i  came  up  with  this  solution.  It's  childish  to  create  a  repo.  for  a  single  Jupyter  notebook  file  but  I  thought  it  would  be  nice  of  me  to  upload  the  content  so  that  someone  new  doesnot  get  stuck  on  it  again.
+Julia  has  come  to  existence  for  a  long  time  now  and  is   gaining  huge  popularity  in  2020.  When  I  statrted  Julia  few  months  back  and  immediately  after  that  I  got  stuck  with  GPU.  *There   were  no  websites  offering  free  cloud  computation  for  Julia*.  I  seacrhed  Julia  Discourse  and  Slack #gpu  for  weeks  and  after  many  trial  and  errors  i  came  up  with  this  solution.  It's  childish  to  create  a  repo.  for  a  single  Jupyter  notebook  file  but  **I  thought  it  would  be  nice  of  me  to  upload  the  content  so  that  someone  new  doesnot  get  stuck  on  it  again.**
 
     
 #### Prerequisites :
