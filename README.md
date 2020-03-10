@@ -1,11 +1,11 @@
-# Julia-on-Collab
+# Julia-on-Colab
 <a name="logo"/>
 <div align="center">
 <a href="https://julialang.org/" target="_blank">
 <img src="https://julialang.org/images/logo_hires.png" alt="Julia Logo" width="210" height="142"></img>
 </a>
 </div>
-<br/>A Notebook for running Julia 1.3.1 on Google Collab using the IJulia package
+<br/>A Notebook for running Julia 1.3.1 on Google Colab using the IJulia package
 
 # Why?
 
@@ -16,9 +16,9 @@ When I started Julia few months back I was searching for an IDE or NoteBook to r
 A Google account, that's all.
 
 ## **Using the Notebook**
-A step by step series of examples that tell you how to get a development env running:
+A step by step guide that tells you how to get the  environment running:
 - Open the [Jupyter Notebook](https://github.com/Dsantra92/Julia-on-Collab/blob/master/julia_on_collab.ipynb)
-- You can either download it or view it directly on Google Collab
+- You can either download it or view it directly on Google Colab
 - Run the first cell to install Julia and IJulia
 ### Note to the user:
 Since Google does not directly offer Julia based computing you have to take care:
