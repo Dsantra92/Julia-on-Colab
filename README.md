@@ -20,7 +20,7 @@ A Google account, that's all.
 
 ## Using the Notebook
 
-A step-by-step guide that tells you how to get the  environment running:
+A step-by-step guide that tells you how to get the environment running:
 1. Open the [Jupyter notebook](https://github.com/Dsantra92/Julia-on-Collab/blob/master/julia_on_collab.ipynb).
 2. You can either download it or view it directly on Google Colab.
 3. Run the first cell to install Julia and IJulia.
