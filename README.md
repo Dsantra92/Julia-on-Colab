@@ -6,7 +6,7 @@
 <img src="misc/logo.svg" alt="Julia Logo" width="210" height="142"></img>
 </a>
 </div>
-<br/>A notebook for running Julia 1.5.0 on Google Colab using the IJulia package.
+<br/>A notebook for running Julia 1.5.3 on Google Colab using the IJulia package.
 
 ## Why?
 
