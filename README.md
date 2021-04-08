@@ -21,8 +21,8 @@ A Google account, that's all.
 ## Using the Notebook
 
 A step-by-step guide that tells you how to get the environment running:
-1. Open the [Jupyter notebook](https://github.com/cemyr/Julia-on-Colab/blob/master/julia_on_colab_upgraded1_6.ipynb).
-2. You can either download it or view it directly on [Google Colab](https://github.com/cemyr/Julia-on-Colab/blob/master/julia_on_colab_upgraded1_6.ipynb).
+1. Open the [Jupyter notebook](https://github.com/cemyr/Julia-on-Colab/blob/master/juliacolab1_6_new.ipynb).
+2. You can either download it or view it directly on [Google Colab](https://github.com/cemyr/Julia-on-Colab/blob/master/juliacolab1_6_new.ipynb).
 3. Run the first cell to install Julia and then follow the step by step instructions in the notebook.
 
 ### Note to the user
