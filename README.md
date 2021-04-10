@@ -6,7 +6,7 @@
 <img src="misc/logo.svg" alt="Julia Logo" width="210" height="142"></img>
 </a>
 </div>
-<br/>A notebook for running Julia 1.5.3 on Google Colab using the IJulia package.
+<br/>A notebook for running Julia 1.6.0 on Google Colab using the IJulia package.
 
 ## Why?
 
@@ -21,15 +21,15 @@ A Google account, that's all.
 ## Using the Notebook
 
 A step-by-step guide that tells you how to get the environment running:
-1. Open the [Jupyter notebook](https://github.com/Dsantra92/Julia-on-Collab/blob/master/julia_on_collab.ipynb).
-2. You can either download it or view it directly on [Google Colab](https://colab.research.google.com/github/Dsantra92/Julia-on-Colab/blob/master/julia_on_collab.ipynb).
+1. Open the [Jupyter notebook](https://github.com/cemyr/Julia-on-Colab/blob/master/juliacolab1_6_new.ipynb).
+2. You can either download it or view it directly on [Google Colab](https://github.com/cemyr/Julia-on-Colab/blob/master/juliacolab1_6_new.ipynb).
 3. Run the first cell to install Julia and then follow the step by step instructions in the notebook.
 
 ### Note to the user
 
 Since Google does not directly offer Julia-based computing you, have to take care:
 
-- You need to **work from the same notebook** to get access to a Julia 1.5.3 kernel. *Don't just copy the code from the notebook, use the notebook as a template. It will lead to an error*.
+- You need to **work from the same notebook** to get access to a Julia 1.6.0 kernel. *Don't just copy the code from the notebook, use the notebook as a template. It will lead to an error*.
 - You might lose connection to the host and, after re-connecting, you might lose your Julia packages that were installed. To tackle this situation, re-run the first cell and proceed with the follow up instructions in the notebook.
 - If you want to create your own notebook, I suggest you use this as a base notebook to work from or make your own template notebook from this which installs the libraries that you work on making life a bit easier.
 
