@@ -6,7 +6,7 @@
 <img src="misc/logo.svg" alt="Julia Logo" width="210" height="142"></img>
 </a>
 </div>
-<br/>A notebook for running Julia 1.6.1 on Google Colab using the IJulia package.
+<br/>A notebook for running Julia 1.7.2 on Google Colab using the IJulia package.
 
 ## Why?
 
@@ -31,7 +31,7 @@ Here is a step by step guide for using this notebook.
 
 Since Google does not directly offer Julia-based computing you, have to take care:
 
-- You need to **work from the same notebook** to get access to a Julia 1.6.1 kernel. *Don't just copy the code from the notebook, use the notebook as a template. It will lead to an error*.
+- You need to **work from the same notebook** to get access to a Julia 1.7.2 kernel. *Don't just copy the code from the notebook, use the notebook as a template. It will lead to an error*.
 - You might lose connection to the host and, after re-connecting, you might lose your Julia packages that were installed. To tackle this situation, re-run the first cell and proceed with the follow up instructions in the notebook.
 - This solution is a bit hacky. So if you get things working, can you make a small concise video about how to get things running?👉 👈 A video tutorial is missing for this and I believe that would really help the community for now. I would a love a new PR.
 
